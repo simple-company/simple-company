@@ -10,7 +10,7 @@ export const metadata = {
       'Simple.Company',
   },
   description:
-    'Small team with big dreams, laser-focused on the hyper niche. Zero meetings, async, no outside funding, just deep work and passionate souls. We're all about keeping things simple, clear, and fun for everyone involved - customers, team and everyone in between! Scratching our own itch, that’s us in a nutshell @simple.company!',
+    'Small team with big dreams, laser-focused on the hyper niche. Zero meetings, async, no outside funding, just deep work and passionate souls. We are all about keeping things simple, clear, and fun for everyone involved - customers, team and everyone in between! Scratching our own itch, that’s us in a nutshell @simple.company!',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
