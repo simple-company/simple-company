@@ -5,12 +5,12 @@ import '@/styles/tailwind.css'
 
 export const metadata = {
   title: {
-    template: '%s - Spencer Sharp',
+    template: '%s - Simple.Company',
     default:
-      'Spencer Sharp - Software designer, founder, and amateur astronaut',
+      'Simple.Company',
   },
   description:
-    'I’m Spencer, a software designer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms.',
+    'Small team with big dreams, laser-focused on the hyper niche. Zero meetings, async, no outside funding, just deep work and passionate souls. We're all about keeping things simple, clear, and fun for everyone involved - customers, team and everyone in between! Scratching our own itch, that’s us in a nutshell @simple.company!',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
